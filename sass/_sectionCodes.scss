@@ -1,0 +1,7 @@
+section {
+    margin-top: 20px;
+    div {
+        @include section-div(15px, 22px)
+    }
+}
+

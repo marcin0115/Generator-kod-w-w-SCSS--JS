@@ -1,0 +1,14 @@
+@mixin button() {
+    margin-top: 50px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: gray;
+    color: $fontColor;
+    cursor: pointer;
+}
+
+@mixin section-div($padding, $fontSize) {
+    padding-top: $padding;
+    font-size: $fontSize;
+    color: $fontColor;
+}

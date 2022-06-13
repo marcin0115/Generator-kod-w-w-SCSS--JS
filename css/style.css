@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: #058585;
+}
+
+button {
+  margin-top: 50px;
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: gray;
+  color: #e9e3e3;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #302d2d;
+}
+
+section {
+  margin-top: 20px;
+}
+
+section div {
+  padding-top: 15px;
+  font-size: 22px;
+  color: #e9e3e3;
+}
+/*# sourceMappingURL=style.css.map */
